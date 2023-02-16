@@ -1,0 +1,131 @@
+body{
+    color: white;
+    background-color: rgb(34, 34, 34);
+    padding: 10px;
+}
+a:hover{
+    color: blue;
+}
+/* IMAGE */
+
+.content{
+   background-image: url(eth0.jpg);
+    width: 100%;
+    height: 95vh;
+}
+/*img{
+    width: 100%;
+    height: 100vh;
+}*/
+hr{
+    background-color: #ffffff;
+    padding: 1px;
+}
+.text{
+    text-align: center;
+    margin-bottom: 280px;
+    padding: 50px;
+}
+h1{
+    font-size: 40px;
+}
+button{
+    text-align: center;
+    width: 220px;
+    height: 45px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.texta{
+    text-align: center;
+    padding: 30px;
+}
+.granav{
+    text-align: center;
+}
+.granava{
+    padding: 10px;
+    margin: 0 10%;
+    opacity: 0.8;
+    background-image: url(aa.png);
+    border-radius: 20px;
+}
+.granavz{
+    padding: 10px;
+    margin: 0 10%;
+    opacity: 0.8;
+    background-image: url(aa.png);
+    border-radius: 20px;
+}
+.granave{
+    padding: 10px;
+    margin: 0 10%;
+    opacity: 0.8;
+    background-image: url(aa.png);
+    border-radius: 20px;
+}
+span{
+    color: green;
+}
+.textz{
+    text-align: center;
+    padding: 30px;
+}
+.grandnav{
+    text-align: center;
+}
+.grandnav h2{
+    font-size: 35px;
+    padding: 10px;
+    color: blue;
+    
+}
+.grandnava{
+    padding: 20px;
+    margin: 0 12%;
+    opacity: 0.8;
+    background-color: black;
+    height: 180px;
+    border-radius: 20px;
+}
+.grandnavz{
+    padding: 20px;
+    margin: 0 12%;
+    opacity: 0.8;
+    background-color: black;
+    height: 180px;
+    border-radius: 20px;
+}
+.grandnave{
+    padding: 20px;
+    margin: 0 12%;
+    opacity: 0.8;
+    background-color: black;
+    height: 180px;
+    border-radius: 20px;
+}
+.textr{
+    text-align: center;
+    padding: 40px;
+}
+select{
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+}
+option{
+    color: #ffffff;
+    background-color: #111111;
+}
+
+
+/* FOOTER */
+footer{
+    text-align: center;
+    background-color: rgb(114, 113, 113);
+    padding: 30px;
+    
+}
